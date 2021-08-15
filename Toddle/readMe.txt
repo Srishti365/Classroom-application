@@ -1,0 +1,3 @@
+-> Install the dependencies using npm install
+-> run the code using sudo node index.js / sudo nodemon index.js in /Toddle folder
+-> API documentation link - https://documenter.getpostman.com/view/9471099/Tzz7QJc8
